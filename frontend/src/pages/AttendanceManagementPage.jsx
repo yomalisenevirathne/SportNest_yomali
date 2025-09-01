@@ -98,7 +98,7 @@ const AttendanceManagementPage = () => {
 
                 {/* --- Attendance Form Section --- */}
                 <div className="bg-white p-6 rounded-lg shadow-md mb-8">
-                    <h2 className="text-2xl font-bold mb-4 text-gray-800">Mark / Update Attendance...</h2>
+                    <h2 className="text-2xl font-bold mb-4 text-gray-800">Mark / Update Attendance</h2>
                     <form onSubmit={handleSubmit} className="grid grid-cols-1 md:grid-cols-4 gap-4 items-end">
                         <div>
                             <label className="block font-semibold text-gray-700">Coach</label>
